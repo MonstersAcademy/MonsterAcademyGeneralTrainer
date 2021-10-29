@@ -1,0 +1,6 @@
+"logsDir": "."
+"projectName": "TestMnist"
+"epochs": 10
+"batchSizeTrain": 512
+"lr": 5.e-3
+"classNames": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
