@@ -1,4 +1,4 @@
-"logsDir": "."
+"logsDir": "Data/logs"
 "projectName": "TestMnist"
 "epochs": 10
 "batchSizeTrain": 512
